@@ -1,3 +1,5 @@
+# Hi. I'm Júlia  
+## About me  
 :woman_technologist: Ph.D. researcher in Industrial Engineering at Federal University of Bahia (UFBA), Bahia State, Brazil  
 :mortar_board: Master in Industrial Engineering (UFBA) and Bachelor in Chemical Engineering (Unileste - MG)  
 :lion: Interested in Data Science projects  
